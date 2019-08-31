@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_exemplar_options_delete"
+        android:icon="@drawable/ic_delete_pink_24dp"
+        android:title="@string/delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_exemplar_options_edit"
+        android:icon="@drawable/ic_edit_pink_24dp"
+        android:title="@string/edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_view_cover"
+        android:title="@string/show_cover"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_view_change_status"
+        android:title="@string/changeStatus"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_view_add_comment"
+        android:title="@string/addComment"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_view_classificate"
+        android:title="@string/classificate"
+        app:showAsAction="never"/>
+</menu>

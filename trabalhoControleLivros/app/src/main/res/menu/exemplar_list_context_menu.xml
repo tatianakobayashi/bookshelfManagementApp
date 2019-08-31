@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_exemplar_context_edit"
+        android:title="@string/edit" />
+    <item
+        android:id="@+id/action_exemplar_context_delete"
+        android:title="@string/delete" />
+    <item
+        android:id="@+id/action_exemplar_change_status"
+        android:title="@string/changeStatus"/>
+    <item
+        android:id="@+id/action_exemplar_add_comment"
+        android:title="@string/addComment"/>
+    <item
+        android:id="@+id/action_exemplar_view_cover"
+        android:title="@string/show_cover"/>
+    <item
+        android:id="@+id/action_exemplar_classificate"
+        android:title="@string/classificate"/>
+</menu>
