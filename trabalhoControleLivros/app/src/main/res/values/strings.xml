@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Controle de Livros</string>
+
+    <!--Ações de menu-->
+    <string name="action_settings">Configurações</string>
+    <string name="exit">Sair</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="show_cover">Mostrar Capa do Exemplar</string>
+    <string name="save">Salvar</string>
+    <string name="logout">Logout</string>
+    <string name="alter_user">Alterar informações de usuário</string>
+    <string name="alter_avatar">Escolher avatar</string>
+    <string name="changeStatus">Alterar status</string>
+    <string name="filterBy">Filtrar</string>
+    <string name="orderBy">Ordenar</string>
+    <string name="activate">Ativar</string>
+
+    <string name="delAuthor">Retirar autor</string>
+    <string name="addSeries">Adicionar coleção</string>
+    <string name="delSeries">Retirar coleção</string>
+
+    <!-- Títulos -->
+    <string name="main_activity_title">Login</string>
+    <string name="title_activity_list">Lista</string>
+    <string name="title_activity_forgotten_password">Senha esquecida</string>
+    <string name="title_activity_change_password">Mudar a senha</string>
+    <string name="title_activity_author_form">Formulário de Autor</string>
+    <string name="title_activity_series_form">Formulário de Série</string>
+    <string name="title_activity_status_form">Formulário de Status</string>
+    <string name="title_activity_book_form">Formulário de Livro</string>
+    <string name="title_activity_exemplar_form">Formulário de Exemplar</string>
+    <string name="title_activity_publisher_form">Formulário de Editora</string>
+    <string name="title_activity_new_item_menu">Selecione o tipo:</string>
+    <string name="bookDetails">Informações do Livro</string>
+    <string name="standardForm">Formulário</string>
+
+    <string name="imageNotFound">Imagem não encontrada</string>
+    <string name="addComment">Adicionar comentário</string>
+    <string name="classificate">Avaliar</string>
+
+    <!--Links-->
+    <string name="create_new_user">Criar novo usuário</string>
+    <string name="forgotten_password">Esqueci minha senha</string>
+
+    <!-- Geral -->
+    <string name="name">Nome:</string>
+    <string name="nameHint">Nome</string>
+    <string name="id">ID:</string>
+    <string name="exemplar">Exemplar</string>
+
+    <!-- Botões -->
+    <string name="submit">Enviar</string>
+    <string name="search">Buscar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="addAuthor">Adicionar Autor</string>
+    <string name="chooseBook">Escolher livro</string>
+    <string name="chooseStatus">Escolher status</string>
+
+    <!-- Usuário -->
+    <string name="user">Usuário:</string>
+    <string name="userHint">Usuário</string>
+    <string name="userName">Nome de Usuário:</string>
+    <string name="userNameHint">Nome de Usuário</string>
+    <string name="email">Email:</string>
+    <string name="emailHint">Email</string>
+    <string name="password">Senha:</string>
+    <string name="passwordHint">Senha</string>
+    <string name="passwordConfirmation">Confirme sua senha:</string>
+
+    <!-- Livro -->
+    <string name="book">Livro:</string>
+    <string name="bookHint">Livro</string>
+    <string name="title">Título:</string>
+    <string name="titleHint">Título</string>
+    <string name="genre">Gênero:</string>
+    <string name="genreHint">Gênero</string>
+
+    <!--Status-->
+    <string name="status">Status:</string>
+    <string name="statusHint">Status</string>
+
+    <!-- Autor -->
+    <string name="author">Autor:</string>
+    <string name="authors">Autores:</string>
+    <string name="authorHint">Autor</string>
+
+    <!-- Coleção -->
+    <string name="colection">Coleção:</string>
+    <string name="collections">Coleções:</string>
+    <string name="collectionHint">Coleção</string>
+
+    <!-- Tipo -->
+    <string name="ebook">eBook</string>
+    <string name="physicalBook">Livro físico</string>
+
+    <!-- Exemplar -->
+    <string name="publisher">Editora:</string>
+    <string name="editorHint">Editora</string>
+    <string name="edition">Edição:</string>
+    <string name="editionHint">Edição</string>
+    <string name="comments">Comentários:</string>
+    <string name="commentsHint">Comentários</string>
+    <string name="pages">Páginas:</string>
+    <string name="pagesHint">Páginas</string>
+    <string name="currentPage">Página atual:</string>
+    <string name="currentPageHint">Página atual</string>
+    <string name="type">Tipo:</string>
+    <string name="timesRead">Quantidade de vezes lido:</string>
+    <string name="timesLent">Quantidade de vezes emprestado:</string>
+    <string name="timesClassificated">Quantidade de vezes classificado:</string>
+    <string name="coverImage">Capa:</string>
+    <string name="coverImageHint">URL da imagem da capa</string>
+    <string name="language">Língua:</string>
+    <string name="languageHint">Língua</string>
+    <string name="classificationLast">Última classificação:</string>
+    <string name="classificationMean">Média das classificações:</string>
+    <string name="title_activity_settings">Configurações</string>
+
+    <string-array name="languages">
+        <item>Português</item>
+        <item>Inglês</item>
+        <item>Espanhol</item>
+    </string-array>
+
+    <string-array name="avatars">
+        <item>Android</item>
+        <item>Neve</item>
+        <item>Sol</item>
+        <item>Flor</item>
+        <item>Carro</item>
+    </string-array>
+
+
+    <string-array name="search_options">
+        <item>Escolha o tipo de busca</item>
+        <item>Exemplar</item>
+        <item>Livro</item>
+        <item>Autor</item>
+        <item>Coleção</item>
+        <item>Status</item>
+        <item>Editora</item>
+    </string-array>
+
+    <string-array name="search_exemplar_options">
+        <item>Nenhuma</item>
+        <item>Status</item>
+        <item>Autor</item>
+        <item>Livro</item>
+        <item>Coleção</item>
+        <item>Editora</item>
+        <item>Tipo de Livro</item>
+    </string-array>
+
+    <string-array name="search_book_options">
+        <item>Nenhuma</item>
+        <item>Autor</item>
+        <item>Coleção</item>
+        <item>Título</item>
+        <item>Gênero</item>
+    </string-array>
+
+    <string-array name="search_series_options">
+        <item>Nenhuma</item>
+        <item>Livro</item>
+        <item>Nome</item>
+    </string-array>
+
+    <string-array name="order_exemplar_options">
+        <item>Nenhum</item>
+        <item>Média das classificações</item>
+        <item>Última classificação</item>
+        <item>Número de páginas</item>
+        <item>Número de vezes lido</item>
+        <item>Número de vezes emprestado</item>
+    </string-array>
+</resources>
